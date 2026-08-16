@@ -1,0 +1,248 @@
+# ==========================================
+# Rules from animations/.gitignore
+# ==========================================
+
+# Logs
+animations/logs
+animations/*.log
+animations/npm-debug.log*
+animations/yarn-debug.log*
+animations/yarn-error.log*
+animations/pnpm-debug.log*
+animations/lerna-debug.log*
+animations/.env
+
+animations/node_modules
+animations/dist
+animations/dist-ssr
+animations/*.local
+
+# Editor directories and files
+animations/.vscode/*
+!animations/.vscode/extensions.json
+animations/.idea
+animations/.DS_Store
+animations/*.suo
+animations/*.ntvs*
+animations/*.njsproj
+animations/*.sln
+animations/*.sw?
+
+
+# ==========================================
+# Rules from backend/.gitignore
+# ==========================================
+
+# Byte-compiled / optimized / DLL files
+backend/__pycache__/
+backend/*.py[cod]
+backend/*$py.class
+
+# C extensions
+backend/*.so
+
+# Distribution / packaging
+backend/.Python
+backend/build/
+backend/develop-eggs/
+backend/dist/
+backend/downloads/
+backend/eggs/
+backend/.eggs/
+backend/lib/
+backend/lib64/
+backend/parts/
+backend/sdist/
+backend/var/
+backend/wheels/
+backend/share/python-wheels/
+backend/*.egg-info/
+backend/.installed.cfg
+backend/*.egg
+backend/MANIFEST
+
+# PyInstaller
+backend/*.manifest
+backend/*.spec
+
+# Installer logs
+backend/pip-log.txt
+backend/pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+backend/htmlcov/
+backend/.tox/
+backend/.nox/
+backend/.coverage
+backend/.coverage.*
+backend/.cache
+backend/nosetests.xml
+backend/coverage.xml
+backend/*.cover
+backend/*.py,cover
+backend/.hypothesis/
+backend/.pytest_cache/
+backend/cover/
+
+# Translations
+backend/*.mo
+backend/*.pot
+
+# Django stuff:
+backend/*.log
+backend/local_settings.py
+backend/db.sqlite3
+backend/db.sqlite3-journal
+
+# Flask stuff:
+backend/instance/
+backend/.webassets-cache
+
+# Scrapy stuff:
+backend/.scrapy
+
+# Sphinx documentation
+backend/docs/_build/
+
+# PyBuilder
+backend/.pybuilder/
+backend/target/
+
+# Jupyter Notebook
+backend/.ipynb_checkpoints
+
+# IPython
+backend/profile_default/
+backend/ipython_config.py
+
+# pyenv
+# .python-version (commented out - we want to commit this for consistent deployments)
+
+# pipenv
+backend/Pipfile.lock
+
+# poetry
+backend/poetry.lock
+
+# pdm
+backend/.pdm.toml
+
+# PEP 582
+backend/__pypackages__/
+
+# Celery stuff
+backend/celerybeat-schedule
+backend/celerybeat.pid
+
+# SageMath parsed files
+backend/*.sage.py
+
+# Environments
+backend/.env
+backend/.venv
+backend/env/
+backend/venv/
+backend/ENV/
+backend/env.bak/
+backend/venv.bak/
+
+# Spyder project settings
+backend/.spyderproject
+backend/.spyproject
+
+# Rope project settings
+backend/.ropeproject
+
+# mkdocs documentation
+backend/site
+
+# mypy
+backend/.mypy_cache/
+backend/.dmypy.json
+backend/dmypy.json
+
+# Pyre type checker
+backend/.pyre/
+
+# pytype static type analyzer
+backend/.pytype/
+
+# Cython debug symbols
+backend/cython_debug/
+
+# IDEs
+backend/.vscode/
+backend/.idea/
+backend/*.swp
+backend/*.swo
+backend/*~
+backend/.DS_Store
+
+# Project specific
+backend/uploads/
+backend/logs/
+backend/*.db
+backend/*.sqlite
+
+# Alembic
+backend/alembic/versions/*.pyc
+
+# Temporary files
+backend/tmp/
+backend/temp/
+backend/*.tmp
+
+
+# ==========================================
+# Rules from frontend/.gitignore
+# ==========================================
+
+# Logs
+frontend/logs
+frontend/*.log
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/pnpm-debug.log*
+frontend/lerna-debug.log*
+frontend/.env
+
+frontend/node_modules
+frontend/dist
+frontend/dist-ssr
+frontend/*.local
+
+# Editor directories and files
+frontend/.vscode/*
+!frontend/.vscode/extensions.json
+frontend/.idea
+frontend/.DS_Store
+frontend/*.suo
+frontend/*.ntvs*
+frontend/*.njsproj
+frontend/*.sln
+frontend/*.sw?
+
+
+# ==========================================
+# Rules from ml/.gitignore
+# ==========================================
+
+ml/aml_dataset/
+ml/graph_cache/
+ml/__pycache__/
+ml/*.pyc
+ml/.env
+ml/.venv/
+
+
+# datasets
+ml/data/
+ml/cache/
+ml/outputs/
+
+# large model files
+ml/*.pt
+ml/*.zip
+
+

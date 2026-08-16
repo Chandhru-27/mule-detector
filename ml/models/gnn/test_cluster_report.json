@@ -1,0 +1,3766 @@
+[
+  {
+    "cluster_id": "INFER_00000",
+    "accounts": [
+      "ACC00000021",
+      "ACC00000025",
+      "ACC00000022",
+      "ACC00000018",
+      "ACC00000020",
+      "ACC00000023",
+      "ACC00000016",
+      "ACC00000024",
+      "ACC00000017",
+      "ACC00000019"
+    ],
+    "account_count": 10,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 9228169.74
+  },
+  {
+    "cluster_id": "INFER_00001",
+    "accounts": [
+      "ACC00000028",
+      "ACC00000032",
+      "ACC00000030",
+      "ACC00000031",
+      "ACC00000027",
+      "ACC00000026",
+      "ACC00000029"
+    ],
+    "account_count": 7,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 3465635.72
+  },
+  {
+    "cluster_id": "INFER_00002",
+    "accounts": [
+      "ACC00000110",
+      "ACC00000108",
+      "ACC00000109",
+      "ACC00000107",
+      "ACC00000106",
+      "ACC00000104",
+      "ACC00000103",
+      "ACC00000105",
+      "ACC00000102"
+    ],
+    "account_count": 9,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 8907971.31
+  },
+  {
+    "cluster_id": "INFER_00004",
+    "accounts": [
+      "ACC00000349",
+      "ACC00000347",
+      "ACC00000343",
+      "ACC00000344",
+      "ACC00000348",
+      "ACC00000345",
+      "ACC00000346",
+      "ACC00000342"
+    ],
+    "account_count": 8,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 8225411.83
+  },
+  {
+    "cluster_id": "INFER_00005",
+    "accounts": [
+      "ACC00000477",
+      "ACC00000481",
+      "ACC00000485",
+      "ACC00000486",
+      "ACC00000489",
+      "ACC00000476",
+      "ACC00000488",
+      "ACC00000478",
+      "ACC00000487",
+      "ACC00000482",
+      "ACC00000480",
+      "ACC00000475",
+      "ACC00000484",
+      "ACC00000483",
+      "ACC00000479"
+    ],
+    "account_count": 15,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 8477579.59
+  },
+  {
+    "cluster_id": "INFER_00008",
+    "accounts": [
+      "ACC00001333",
+      "ACC00001334",
+      "ACC00001326",
+      "ACC00001324",
+      "ACC00001329",
+      "ACC00001325",
+      "ACC00001321",
+      "ACC00001327",
+      "ACC00001323",
+      "ACC00001328",
+      "ACC00001332",
+      "ACC00001331",
+      "ACC00001322",
+      "ACC00001330"
+    ],
+    "account_count": 14,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 9835455.68
+  },
+  {
+    "cluster_id": "INFER_00009",
+    "accounts": [
+      "ACC00001363",
+      "ACC00001362",
+      "ACC00001367",
+      "ACC00001361",
+      "ACC00001365",
+      "ACC00001364",
+      "ACC00001366"
+    ],
+    "account_count": 7,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 8454328.53
+  },
+  {
+    "cluster_id": "INFER_00010",
+    "accounts": [
+      "ACC00001375",
+      "ACC00001376",
+      "ACC00001377",
+      "ACC00001378",
+      "ACC00001374",
+      "ACC00001380",
+      "ACC00001381",
+      "ACC00001379"
+    ],
+    "account_count": 8,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 7148683.33
+  },
+  {
+    "cluster_id": "INFER_00013",
+    "accounts": [
+      "ACC00001527",
+      "ACC00001517",
+      "ACC00001519",
+      "ACC00001518",
+      "ACC00001522",
+      "ACC00001523",
+      "ACC00001525",
+      "ACC00001521",
+      "ACC00001526",
+      "ACC00001520",
+      "ACC00001524"
+    ],
+    "account_count": 11,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 7642924.72
+  },
+  {
+    "cluster_id": "INFER_00016",
+    "accounts": [
+      "ACC00001653",
+      "ACC00001658",
+      "ACC00001650",
+      "ACC00001651",
+      "ACC00001654",
+      "ACC00001652",
+      "ACC00001660",
+      "ACC00001656",
+      "ACC00001659",
+      "ACC00001655",
+      "ACC00001657"
+    ],
+    "account_count": 11,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 7938610.2
+  },
+  {
+    "cluster_id": "INFER_00017",
+    "accounts": [
+      "ACC00001661",
+      "ACC00001668",
+      "ACC00001670",
+      "ACC00001669",
+      "ACC00001671",
+      "ACC00001663",
+      "ACC00001672",
+      "ACC00001665",
+      "ACC00001664",
+      "ACC00001667",
+      "ACC00001666",
+      "ACC00001662"
+    ],
+    "account_count": 12,
+    "pattern": "UNKNOWN_SUSPICIOUS",
+    "risk_score": 1.0,
+    "is_novel_pattern": true,
+    "confidence": null,
+    "total_amount_blocked": 6376865.7
+  },
+  {
+    "cluster_id": "INFER_00025",
+    "accounts": [
+      "ACC00002468",
+      "ACC00002464",
+      "ACC00002463",
+      "ACC00002465",
+      "ACC00002462",
+      "ACC00002469",
+      "ACC00002466",
+      "ACC00002467"
+    ],
+    "account_count": 8,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 8979466.36
+  },
+  {
+    "cluster_id": "INFER_00028",
+    "accounts": [
+      "ACC00002762",
+      "ACC00002763",
+      "ACC00002760",
+      "ACC00002761",
+      "ACC00002759",
+      "ACC00002764"
+    ],
+    "account_count": 6,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 10986210.72
+  },
+  {
+    "cluster_id": "INFER_00033",
+    "accounts": [
+      "ACC00003708",
+      "ACC00003704",
+      "ACC00003707",
+      "ACC00003705",
+      "ACC00003706",
+      "ACC00003703",
+      "ACC00003702"
+    ],
+    "account_count": 7,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 6889964.14
+  },
+  {
+    "cluster_id": "INFER_00034",
+    "accounts": [
+      "ACC00003748",
+      "ACC00003750",
+      "ACC00003744",
+      "ACC00003752",
+      "ACC00003741",
+      "ACC00003749",
+      "ACC00003746",
+      "ACC00003751",
+      "ACC00003745",
+      "ACC00003753",
+      "ACC00003747",
+      "ACC00003743",
+      "ACC00003740",
+      "ACC00003742"
+    ],
+    "account_count": 14,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 8990847.15
+  },
+  {
+    "cluster_id": "INFER_00043",
+    "accounts": [
+      "ACC00004359",
+      "ACC00004357",
+      "ACC00004363",
+      "ACC00004354",
+      "ACC00004356",
+      "ACC00004360",
+      "ACC00004362",
+      "ACC00004358",
+      "ACC00004364",
+      "ACC00004355",
+      "ACC00004361"
+    ],
+    "account_count": 11,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 8394653.04
+  },
+  {
+    "cluster_id": "INFER_00044",
+    "accounts": [
+      "ACC00004428",
+      "ACC00004436",
+      "ACC00004433",
+      "ACC00004425",
+      "ACC00004430",
+      "ACC00004435",
+      "ACC00004432",
+      "ACC00004427",
+      "ACC00004429",
+      "ACC00004431",
+      "ACC00004434",
+      "ACC00004426"
+    ],
+    "account_count": 12,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 9622235.19
+  },
+  {
+    "cluster_id": "INFER_00045",
+    "accounts": [
+      "ACC00004512",
+      "ACC00004506",
+      "ACC00004517",
+      "ACC00004510",
+      "ACC00004515",
+      "ACC00004509",
+      "ACC00004507",
+      "ACC00004508",
+      "ACC00004513",
+      "ACC00004516",
+      "ACC00004514",
+      "ACC00004511"
+    ],
+    "account_count": 12,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 9221425.93
+  },
+  {
+    "cluster_id": "INFER_00048",
+    "accounts": [
+      "ACC00005268",
+      "ACC00005263",
+      "ACC00005264",
+      "ACC00005266",
+      "ACC00005265",
+      "ACC00005267"
+    ],
+    "account_count": 6,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 5956129.51
+  },
+  {
+    "cluster_id": "INFER_00051",
+    "accounts": [
+      "ACC00005624",
+      "ACC00005626",
+      "ACC00005623",
+      "ACC00005627",
+      "ACC00005622",
+      "ACC00005625"
+    ],
+    "account_count": 6,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 6398599.11
+  },
+  {
+    "cluster_id": "INFER_00056",
+    "accounts": [
+      "ACC00006330",
+      "ACC00006328",
+      "ACC00006331",
+      "ACC00006327",
+      "ACC00006332",
+      "ACC00006334",
+      "ACC00006333",
+      "ACC00006329",
+      "ACC00006335"
+    ],
+    "account_count": 9,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 6170615.94
+  },
+  {
+    "cluster_id": "INFER_00057",
+    "accounts": [
+      "ACC00006466",
+      "ACC00006467",
+      "ACC00006468",
+      "ACC00006470",
+      "ACC00006472",
+      "ACC00006471",
+      "ACC00006465",
+      "ACC00006469"
+    ],
+    "account_count": 8,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 5909394.65
+  },
+  {
+    "cluster_id": "INFER_00058",
+    "accounts": [
+      "ACC00006537",
+      "ACC00006541",
+      "ACC00006542",
+      "ACC00006539",
+      "ACC00006540",
+      "ACC00006543",
+      "ACC00006538"
+    ],
+    "account_count": 7,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 8890025.4
+  },
+  {
+    "cluster_id": "INFER_00059",
+    "accounts": [
+      "ACC00006830",
+      "ACC00006833",
+      "ACC00006841",
+      "ACC00006842",
+      "ACC00006837",
+      "ACC00006835",
+      "ACC00006831",
+      "ACC00006838",
+      "ACC00006834",
+      "ACC00006832",
+      "ACC00006840",
+      "ACC00006829",
+      "ACC00006836",
+      "ACC00006839"
+    ],
+    "account_count": 14,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 11311864.82
+  },
+  {
+    "cluster_id": "INFER_00061",
+    "accounts": [
+      "ACC00006986",
+      "ACC00006980",
+      "ACC00006983",
+      "ACC00006985",
+      "ACC00006987",
+      "ACC00006988",
+      "ACC00006984",
+      "ACC00006981",
+      "ACC00006978",
+      "ACC00006982",
+      "ACC00006977",
+      "ACC00006979"
+    ],
+    "account_count": 12,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 7554580.29
+  },
+  {
+    "cluster_id": "INFER_00062",
+    "accounts": [
+      "ACC00007068",
+      "ACC00007063",
+      "ACC00007065",
+      "ACC00007064",
+      "ACC00007067",
+      "ACC00007066",
+      "ACC00007069"
+    ],
+    "account_count": 7,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 6982442.44
+  },
+  {
+    "cluster_id": "INFER_00065",
+    "accounts": [
+      "ACC00007264",
+      "ACC00007265",
+      "ACC00007268",
+      "ACC00007267",
+      "ACC00007269",
+      "ACC00007270",
+      "ACC00007271",
+      "ACC00007266",
+      "ACC00007263"
+    ],
+    "account_count": 9,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 6431919.2
+  },
+  {
+    "cluster_id": "INFER_00069",
+    "accounts": [
+      "ACC00007642",
+      "ACC00007645",
+      "ACC00007646",
+      "ACC00007647",
+      "ACC00007644",
+      "ACC00007640",
+      "ACC00007641",
+      "ACC00007643",
+      "ACC00007648"
+    ],
+    "account_count": 9,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 6493934.41
+  },
+  {
+    "cluster_id": "INFER_00071",
+    "accounts": [
+      "ACC00007787",
+      "ACC00007789",
+      "ACC00007788",
+      "ACC00007782",
+      "ACC00007790",
+      "ACC00007786",
+      "ACC00007784",
+      "ACC00007785",
+      "ACC00007783"
+    ],
+    "account_count": 9,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 8364876.85
+  },
+  {
+    "cluster_id": "INFER_00077",
+    "accounts": [
+      "ACC00008181",
+      "ACC00008173",
+      "ACC00008174",
+      "ACC00008180",
+      "ACC00008179",
+      "ACC00008177",
+      "ACC00008176",
+      "ACC00008175",
+      "ACC00008178",
+      "ACC00008172"
+    ],
+    "account_count": 10,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 9057513.78
+  },
+  {
+    "cluster_id": "INFER_00081",
+    "accounts": [
+      "ACC00008399",
+      "ACC00008402",
+      "ACC00008400",
+      "ACC00008405",
+      "ACC00008404",
+      "ACC00008398",
+      "ACC00008403",
+      "ACC00008401",
+      "ACC00008406"
+    ],
+    "account_count": 9,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 9855620.4
+  },
+  {
+    "cluster_id": "INFER_00083",
+    "accounts": [
+      "ACC00008552",
+      "ACC00008551",
+      "ACC00008553",
+      "ACC00008557",
+      "ACC00008558",
+      "ACC00008555",
+      "ACC00008556",
+      "ACC00008554"
+    ],
+    "account_count": 8,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 4591181.09
+  },
+  {
+    "cluster_id": "INFER_00086",
+    "accounts": [
+      "ACC00008779",
+      "ACC00008780",
+      "ACC00008784",
+      "ACC00008778",
+      "ACC00008783",
+      "ACC00008781",
+      "ACC00008782"
+    ],
+    "account_count": 7,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 5843654.08
+  },
+  {
+    "cluster_id": "INFER_00095",
+    "accounts": [
+      "ACC00009529",
+      "ACC00009528",
+      "ACC00009526",
+      "ACC00009527",
+      "ACC00009530",
+      "ACC00009524",
+      "ACC00009531",
+      "ACC00009525"
+    ],
+    "account_count": 8,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 5537280.6
+  },
+  {
+    "cluster_id": "INFER_00099",
+    "accounts": [
+      "ACC00009669",
+      "ACC00009664",
+      "ACC00009665",
+      "ACC00009666",
+      "ACC00009672",
+      "ACC00009670",
+      "ACC00009668",
+      "ACC00009671",
+      "ACC00009667"
+    ],
+    "account_count": 9,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 9766545.66
+  },
+  {
+    "cluster_id": "INFER_00103",
+    "accounts": [
+      "ACC00010399",
+      "ACC00010396",
+      "ACC00010394",
+      "ACC00010395",
+      "ACC00010398",
+      "ACC00010397"
+    ],
+    "account_count": 6,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 8716069.49
+  },
+  {
+    "cluster_id": "INFER_00106",
+    "accounts": [
+      "ACC00010747",
+      "ACC00010744",
+      "ACC00010743",
+      "ACC00010741",
+      "ACC00010740",
+      "ACC00010746",
+      "ACC00010742",
+      "ACC00010745"
+    ],
+    "account_count": 8,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 9272530.44
+  },
+  {
+    "cluster_id": "INFER_00110",
+    "accounts": [
+      "ACC00011151",
+      "ACC00011149",
+      "ACC00011157",
+      "ACC00011158",
+      "ACC00011156",
+      "ACC00011154",
+      "ACC00011150",
+      "ACC00011152",
+      "ACC00011153",
+      "ACC00011155"
+    ],
+    "account_count": 10,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 8796022.13
+  },
+  {
+    "cluster_id": "INFER_00115",
+    "accounts": [
+      "ACC00011306",
+      "ACC00011314",
+      "ACC00011308",
+      "ACC00011307",
+      "ACC00011310",
+      "ACC00011313",
+      "ACC00011312",
+      "ACC00011309",
+      "ACC00011311"
+    ],
+    "account_count": 9,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 9702687.92
+  },
+  {
+    "cluster_id": "INFER_00116",
+    "accounts": [
+      "ACC00011358",
+      "ACC00011351",
+      "ACC00011345",
+      "ACC00011349",
+      "ACC00011348",
+      "ACC00011350",
+      "ACC00011356",
+      "ACC00011357",
+      "ACC00011347",
+      "ACC00011346",
+      "ACC00011355",
+      "ACC00011353",
+      "ACC00011354",
+      "ACC00011344"
+    ],
+    "account_count": 14,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 9234585.99
+  },
+  {
+    "cluster_id": "INFER_00127",
+    "accounts": [
+      "ACC00012422",
+      "ACC00012427",
+      "ACC00012424",
+      "ACC00012426",
+      "ACC00012425",
+      "ACC00012421",
+      "ACC00012423"
+    ],
+    "account_count": 7,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 6962118.58
+  },
+  {
+    "cluster_id": "INFER_00141",
+    "accounts": [
+      "ACC00013834",
+      "ACC00013839",
+      "ACC00013831",
+      "ACC00013835",
+      "ACC00013838",
+      "ACC00013841",
+      "ACC00013836",
+      "ACC00013837",
+      "ACC00013832",
+      "ACC00013840",
+      "ACC00013833"
+    ],
+    "account_count": 11,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 9023661.81
+  },
+  {
+    "cluster_id": "INFER_00142",
+    "accounts": [
+      "ACC00013963",
+      "ACC00013961",
+      "ACC00013964",
+      "ACC00013960",
+      "ACC00013962",
+      "ACC00013965",
+      "ACC00013966",
+      "ACC00013958",
+      "ACC00013959"
+    ],
+    "account_count": 9,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 10412802.99
+  },
+  {
+    "cluster_id": "INFER_00148",
+    "accounts": [
+      "ACC00014801",
+      "ACC00014799",
+      "ACC00014802",
+      "ACC00014800",
+      "ACC00014805",
+      "ACC00014804",
+      "ACC00014803"
+    ],
+    "account_count": 7,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 5507159.51
+  },
+  {
+    "cluster_id": "INFER_00157",
+    "accounts": [
+      "ACC00015693",
+      "ACC00015694",
+      "ACC00015695",
+      "ACC00015691",
+      "ACC00015696",
+      "ACC00015692"
+    ],
+    "account_count": 6,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 8206232.41
+  },
+  {
+    "cluster_id": "INFER_00163",
+    "accounts": [
+      "ACC00016080",
+      "ACC00016076",
+      "ACC00016075",
+      "ACC00016074",
+      "ACC00016079",
+      "ACC00016077",
+      "ACC00016078"
+    ],
+    "account_count": 7,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 5270079.28
+  },
+  {
+    "cluster_id": "INFER_00164",
+    "accounts": [
+      "ACC00016197",
+      "ACC00016200",
+      "ACC00016203",
+      "ACC00016206",
+      "ACC00016201",
+      "ACC00016196",
+      "ACC00016199",
+      "ACC00016202",
+      "ACC00016204",
+      "ACC00016198",
+      "ACC00016205"
+    ],
+    "account_count": 11,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 5305225.06
+  },
+  {
+    "cluster_id": "INFER_00175",
+    "accounts": [
+      "ACC00017630",
+      "ACC00017629",
+      "ACC00017625",
+      "ACC00017628",
+      "ACC00017627",
+      "ACC00017626",
+      "ACC00017624"
+    ],
+    "account_count": 7,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 7560041.32
+  },
+  {
+    "cluster_id": "INFER_00194",
+    "accounts": [
+      "ACC00019370",
+      "ACC00019364",
+      "ACC00019366",
+      "ACC00019369",
+      "ACC00019373",
+      "ACC00019372",
+      "ACC00019367",
+      "ACC00019368",
+      "ACC00019365",
+      "ACC00019371"
+    ],
+    "account_count": 10,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 10538438.79
+  },
+  {
+    "cluster_id": "INFER_00203",
+    "accounts": [
+      "ACC00020133",
+      "ACC00020135",
+      "ACC00020128",
+      "ACC00020130",
+      "ACC00020129",
+      "ACC00020136",
+      "ACC00020131",
+      "ACC00020132",
+      "ACC00020134"
+    ],
+    "account_count": 9,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 8756685.8
+  },
+  {
+    "cluster_id": "INFER_00206",
+    "accounts": [
+      "ACC00020211",
+      "ACC00020213",
+      "ACC00020214",
+      "ACC00020217",
+      "ACC00020218",
+      "ACC00020209",
+      "ACC00020210",
+      "ACC00020216",
+      "ACC00020212",
+      "ACC00020215"
+    ],
+    "account_count": 10,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 8442752.19
+  },
+  {
+    "cluster_id": "INFER_00213",
+    "accounts": [
+      "ACC00020573",
+      "ACC00020574",
+      "ACC00020568",
+      "ACC00020572",
+      "ACC00020569",
+      "ACC00020570",
+      "ACC00020566",
+      "ACC00020567",
+      "ACC00020571"
+    ],
+    "account_count": 9,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 9380677.12
+  },
+  {
+    "cluster_id": "INFER_00220",
+    "accounts": [
+      "ACC00021325",
+      "ACC00021320",
+      "ACC00021322",
+      "ACC00021323",
+      "ACC00021324",
+      "ACC00021327",
+      "ACC00021321",
+      "ACC00021319",
+      "ACC00021328",
+      "ACC00021326"
+    ],
+    "account_count": 10,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 7280656.59
+  },
+  {
+    "cluster_id": "INFER_00234",
+    "accounts": [
+      "ACC00022295",
+      "ACC00022298",
+      "ACC00022296",
+      "ACC00022297",
+      "ACC00022299",
+      "ACC00022293",
+      "ACC00022301",
+      "ACC00022300",
+      "ACC00022294"
+    ],
+    "account_count": 9,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 9849895.09
+  },
+  {
+    "cluster_id": "INFER_00248",
+    "accounts": [
+      "ACC00023537",
+      "ACC00023539",
+      "ACC00023541",
+      "ACC00023538",
+      "ACC00023540",
+      "ACC00023536"
+    ],
+    "account_count": 6,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 7237411.55
+  },
+  {
+    "cluster_id": "INFER_00249",
+    "accounts": [
+      "ACC00023620",
+      "ACC00023618",
+      "ACC00023619",
+      "ACC00023623",
+      "ACC00023622",
+      "ACC00023621"
+    ],
+    "account_count": 6,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 7455591.82
+  },
+  {
+    "cluster_id": "INFER_00257",
+    "accounts": [
+      "ACC00024762",
+      "ACC00024760",
+      "ACC00024759",
+      "ACC00024755",
+      "ACC00024757",
+      "ACC00024758",
+      "ACC00024761",
+      "ACC00024756"
+    ],
+    "account_count": 8,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 10148853.98
+  },
+  {
+    "cluster_id": "INFER_00265",
+    "accounts": [
+      "ACC00025652",
+      "ACC00025661",
+      "ACC00025660",
+      "ACC00025663",
+      "ACC00025654",
+      "ACC00025657",
+      "ACC00025653",
+      "ACC00025664",
+      "ACC00025665",
+      "ACC00025659",
+      "ACC00025658",
+      "ACC00025656",
+      "ACC00025662",
+      "ACC00025655",
+      "ACC00025651"
+    ],
+    "account_count": 15,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 9203284.91
+  },
+  {
+    "cluster_id": "INFER_00267",
+    "accounts": [
+      "ACC00025938",
+      "ACC00025940",
+      "ACC00025939",
+      "ACC00025942",
+      "ACC00025941",
+      "ACC00025937"
+    ],
+    "account_count": 6,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 5371283.23
+  },
+  {
+    "cluster_id": "INFER_00269",
+    "accounts": [
+      "ACC00026143",
+      "ACC00026141",
+      "ACC00026142",
+      "ACC00026144",
+      "ACC00026145",
+      "ACC00026140"
+    ],
+    "account_count": 6,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 5927449.44
+  },
+  {
+    "cluster_id": "INFER_00271",
+    "accounts": [
+      "ACC00026339",
+      "ACC00026336",
+      "ACC00026340",
+      "ACC00026334",
+      "ACC00026335",
+      "ACC00026338",
+      "ACC00026342",
+      "ACC00026341",
+      "ACC00026337"
+    ],
+    "account_count": 9,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 6077927.09
+  },
+  {
+    "cluster_id": "INFER_00274",
+    "accounts": [
+      "ACC00026723",
+      "ACC00026724",
+      "ACC00026715",
+      "ACC00026713",
+      "ACC00026722",
+      "ACC00026718",
+      "ACC00026727",
+      "ACC00026721",
+      "ACC00026720",
+      "ACC00026716",
+      "ACC00026717",
+      "ACC00026726",
+      "ACC00026714",
+      "ACC00026725"
+    ],
+    "account_count": 14,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 11650512.51
+  },
+  {
+    "cluster_id": "INFER_00275",
+    "accounts": [
+      "ACC00026871",
+      "ACC00026869",
+      "ACC00026873",
+      "ACC00026866",
+      "ACC00026868",
+      "ACC00026874",
+      "ACC00026872",
+      "ACC00026870",
+      "ACC00026867"
+    ],
+    "account_count": 9,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 8151285.33
+  },
+  {
+    "cluster_id": "INFER_00280",
+    "accounts": [
+      "ACC00027514",
+      "ACC00027518",
+      "ACC00027516",
+      "ACC00027515",
+      "ACC00027519",
+      "ACC00027517",
+      "ACC00027513"
+    ],
+    "account_count": 7,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 5710257.46
+  },
+  {
+    "cluster_id": "INFER_00292",
+    "accounts": [
+      "ACC00028596",
+      "ACC00028595",
+      "ACC00028601",
+      "ACC00028600",
+      "ACC00028598",
+      "ACC00028599",
+      "ACC00028597",
+      "ACC00028602"
+    ],
+    "account_count": 8,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 8581335.19
+  },
+  {
+    "cluster_id": "INFER_00301",
+    "accounts": [
+      "ACC00029452",
+      "ACC00029450",
+      "ACC00029448",
+      "ACC00029447",
+      "ACC00029442",
+      "ACC00029443",
+      "ACC00029445",
+      "ACC00029446",
+      "ACC00029444",
+      "ACC00029449",
+      "ACC00029451"
+    ],
+    "account_count": 11,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 11375546.69
+  },
+  {
+    "cluster_id": "INFER_00303",
+    "accounts": [
+      "ACC00029868",
+      "ACC00029877",
+      "ACC00029878",
+      "ACC00029874",
+      "ACC00029875",
+      "ACC00029872",
+      "ACC00029871",
+      "ACC00029867",
+      "ACC00029870",
+      "ACC00029869",
+      "ACC00029873",
+      "ACC00029876"
+    ],
+    "account_count": 12,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 10146771.66
+  },
+  {
+    "cluster_id": "INFER_00308",
+    "accounts": [
+      "ACC00030297",
+      "ACC00030299",
+      "ACC00030295",
+      "ACC00030298",
+      "ACC00030300",
+      "ACC00030296"
+    ],
+    "account_count": 6,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 3991236.02
+  },
+  {
+    "cluster_id": "INFER_00316",
+    "accounts": [
+      "ACC00031515",
+      "ACC00031516",
+      "ACC00031511",
+      "ACC00031508",
+      "ACC00031512",
+      "ACC00031513",
+      "ACC00031507",
+      "ACC00031517",
+      "ACC00031514",
+      "ACC00031510",
+      "ACC00031509"
+    ],
+    "account_count": 11,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 8768299.18
+  },
+  {
+    "cluster_id": "INFER_00321",
+    "accounts": [
+      "ACC00031749",
+      "ACC00031755",
+      "ACC00031754",
+      "ACC00031750",
+      "ACC00031752",
+      "ACC00031759",
+      "ACC00031751",
+      "ACC00031756",
+      "ACC00031748",
+      "ACC00031760",
+      "ACC00031753",
+      "ACC00031757",
+      "ACC00031758"
+    ],
+    "account_count": 13,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 9863322.49
+  },
+  {
+    "cluster_id": "INFER_00330",
+    "accounts": [
+      "ACC00032833",
+      "ACC00032838",
+      "ACC00032834",
+      "ACC00032831",
+      "ACC00032835",
+      "ACC00032837",
+      "ACC00032832",
+      "ACC00032836"
+    ],
+    "account_count": 8,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 5445088.51
+  },
+  {
+    "cluster_id": "INFER_00343",
+    "accounts": [
+      "ACC00033698",
+      "ACC00033694",
+      "ACC00033696",
+      "ACC00033693",
+      "ACC00033697",
+      "ACC00033695"
+    ],
+    "account_count": 6,
+    "pattern": "mule_ring",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 6892783.01
+  },
+  {
+    "cluster_id": "INFER_00615",
+    "accounts": [
+      "ACC00059462",
+      "ACC00059463",
+      "ACC00059464",
+      "ACC00059465",
+      "ACC00059466"
+    ],
+    "account_count": 5,
+    "pattern": "circular_loop",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 4765430.01
+  },
+  {
+    "cluster_id": "INFER_00619",
+    "accounts": [
+      "ACC00059593",
+      "ACC00059594",
+      "ACC00059595"
+    ],
+    "account_count": 3,
+    "pattern": "circular_loop",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 12551037.82
+  },
+  {
+    "cluster_id": "INFER_00628",
+    "accounts": [
+      "ACC00060180",
+      "ACC00060181",
+      "ACC00060182",
+      "ACC00060183",
+      "ACC00060184",
+      "ACC00060185"
+    ],
+    "account_count": 6,
+    "pattern": "circular_loop",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 7333693.48
+  },
+  {
+    "cluster_id": "INFER_00635",
+    "accounts": [
+      "ACC00060475",
+      "ACC00060476",
+      "ACC00060477",
+      "ACC00060478"
+    ],
+    "account_count": 4,
+    "pattern": "circular_loop",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 18275035.63
+  },
+  {
+    "cluster_id": "INFER_00652",
+    "accounts": [
+      "ACC00061347",
+      "ACC00061348",
+      "ACC00061349"
+    ],
+    "account_count": 3,
+    "pattern": "circular_loop",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 8714080.85
+  },
+  {
+    "cluster_id": "INFER_00655",
+    "accounts": [
+      "ACC00061443",
+      "ACC00061444",
+      "ACC00061445",
+      "ACC00061446"
+    ],
+    "account_count": 4,
+    "pattern": "circular_loop",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 6221980.02
+  },
+  {
+    "cluster_id": "INFER_00661",
+    "accounts": [
+      "ACC00061588",
+      "ACC00061589",
+      "ACC00061590",
+      "ACC00061591",
+      "ACC00061592"
+    ],
+    "account_count": 5,
+    "pattern": "circular_loop",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 6633995.86
+  },
+  {
+    "cluster_id": "INFER_00662",
+    "accounts": [
+      "ACC00061647",
+      "ACC00061648",
+      "ACC00061649"
+    ],
+    "account_count": 3,
+    "pattern": "circular_loop",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 9778020.41
+  },
+  {
+    "cluster_id": "INFER_00664",
+    "accounts": [
+      "ACC00061838",
+      "ACC00061839",
+      "ACC00061840",
+      "ACC00061841"
+    ],
+    "account_count": 4,
+    "pattern": "circular_loop",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 11952886.42
+  },
+  {
+    "cluster_id": "INFER_00669",
+    "accounts": [
+      "ACC00062105",
+      "ACC00062106",
+      "ACC00062107"
+    ],
+    "account_count": 3,
+    "pattern": "circular_loop",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 11721876.39
+  },
+  {
+    "cluster_id": "INFER_00689",
+    "accounts": [
+      "ACC00063196",
+      "ACC00063197",
+      "ACC00063198"
+    ],
+    "account_count": 3,
+    "pattern": "circular_loop",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 1746707.76
+  },
+  {
+    "cluster_id": "INFER_00693",
+    "accounts": [
+      "ACC00063423",
+      "ACC00063424",
+      "ACC00063425"
+    ],
+    "account_count": 3,
+    "pattern": "circular_loop",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 12845106.37
+  },
+  {
+    "cluster_id": "INFER_00696",
+    "accounts": [
+      "ACC00063464",
+      "ACC00063465",
+      "ACC00063466"
+    ],
+    "account_count": 3,
+    "pattern": "circular_loop",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 4912751.22
+  },
+  {
+    "cluster_id": "INFER_00706",
+    "accounts": [
+      "ACC00063795",
+      "ACC00063796",
+      "ACC00063797"
+    ],
+    "account_count": 3,
+    "pattern": "circular_loop",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 7519115.86
+  },
+  {
+    "cluster_id": "INFER_00711",
+    "accounts": [
+      "ACC00063982",
+      "ACC00063983",
+      "ACC00063984"
+    ],
+    "account_count": 3,
+    "pattern": "circular_loop",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 3079282.28
+  },
+  {
+    "cluster_id": "INFER_00712",
+    "accounts": [
+      "ACC00064014",
+      "ACC00064015",
+      "ACC00064016",
+      "ACC00064017",
+      "ACC00064018"
+    ],
+    "account_count": 5,
+    "pattern": "circular_loop",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 4959607.08
+  },
+  {
+    "cluster_id": "INFER_00717",
+    "accounts": [
+      "ACC00064160",
+      "ACC00064161",
+      "ACC00064162",
+      "ACC00064163",
+      "ACC00064164",
+      "ACC00064165"
+    ],
+    "account_count": 6,
+    "pattern": "circular_loop",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 8788013.41
+  },
+  {
+    "cluster_id": "INFER_00718",
+    "accounts": [
+      "ACC00064246",
+      "ACC00064247",
+      "ACC00064248",
+      "ACC00064249"
+    ],
+    "account_count": 4,
+    "pattern": "circular_loop",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 8204028.86
+  },
+  {
+    "cluster_id": "INFER_00720",
+    "accounts": [
+      "ACC00064385",
+      "ACC00064386",
+      "ACC00064387"
+    ],
+    "account_count": 3,
+    "pattern": "circular_loop",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 5666262.39
+  },
+  {
+    "cluster_id": "INFER_00724",
+    "accounts": [
+      "ACC00064605",
+      "ACC00064606",
+      "ACC00064607"
+    ],
+    "account_count": 3,
+    "pattern": "circular_loop",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 4105706.87
+  },
+  {
+    "cluster_id": "INFER_00730",
+    "accounts": [
+      "ACC00064996",
+      "ACC00064997",
+      "ACC00064998"
+    ],
+    "account_count": 3,
+    "pattern": "circular_loop",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 7649908.37
+  },
+  {
+    "cluster_id": "INFER_00738",
+    "accounts": [
+      "ACC00065369",
+      "ACC00065370",
+      "ACC00065371"
+    ],
+    "account_count": 3,
+    "pattern": "circular_loop",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 4552008.74
+  },
+  {
+    "cluster_id": "INFER_00740",
+    "accounts": [
+      "ACC00065441",
+      "ACC00065442",
+      "ACC00065443",
+      "ACC00065444"
+    ],
+    "account_count": 4,
+    "pattern": "circular_loop",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 11042394.31
+  },
+  {
+    "cluster_id": "INFER_00746",
+    "accounts": [
+      "ACC00065897",
+      "ACC00065898",
+      "ACC00065899",
+      "ACC00065900",
+      "ACC00065901"
+    ],
+    "account_count": 5,
+    "pattern": "circular_loop",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 3748119.81
+  },
+  {
+    "cluster_id": "INFER_00772",
+    "accounts": [
+      "ACC00067295",
+      "ACC00067296",
+      "ACC00067297"
+    ],
+    "account_count": 3,
+    "pattern": "circular_loop",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 6109836.73
+  },
+  {
+    "cluster_id": "INFER_00780",
+    "accounts": [
+      "ACC00067569",
+      "ACC00067570",
+      "ACC00067571",
+      "ACC00067572"
+    ],
+    "account_count": 4,
+    "pattern": "circular_loop",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 6858664.45
+  },
+  {
+    "cluster_id": "INFER_00793",
+    "accounts": [
+      "ACC00068291",
+      "ACC00068292",
+      "ACC00068293",
+      "ACC00068294"
+    ],
+    "account_count": 4,
+    "pattern": "circular_loop",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 6318425.69
+  },
+  {
+    "cluster_id": "INFER_00802",
+    "accounts": [
+      "ACC00068909",
+      "ACC00068910",
+      "ACC00068911"
+    ],
+    "account_count": 3,
+    "pattern": "circular_loop",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 4200316.7
+  },
+  {
+    "cluster_id": "INFER_00810",
+    "accounts": [
+      "ACC00069285",
+      "ACC00069286",
+      "ACC00069287"
+    ],
+    "account_count": 3,
+    "pattern": "circular_loop",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 9793610.18
+  },
+  {
+    "cluster_id": "INFER_00823",
+    "accounts": [
+      "ACC00070103",
+      "ACC00070104",
+      "ACC00070105"
+    ],
+    "account_count": 3,
+    "pattern": "circular_loop",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 2353744.74
+  },
+  {
+    "cluster_id": "INFER_00827",
+    "accounts": [
+      "ACC00070526",
+      "ACC00070527",
+      "ACC00070528",
+      "ACC00070529",
+      "ACC00070530"
+    ],
+    "account_count": 5,
+    "pattern": "circular_loop",
+    "risk_score": 1.0,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 3645748.55
+  },
+  {
+    "cluster_id": "INFER_00003",
+    "accounts": [
+      "ACC00000169",
+      "ACC00000182",
+      "ACC00000173",
+      "ACC00000174",
+      "ACC00000172",
+      "ACC00000176",
+      "ACC00000178",
+      "ACC00000170",
+      "ACC00000177",
+      "ACC00000171",
+      "ACC00000179",
+      "ACC00000180",
+      "ACC00000175",
+      "ACC00000181"
+    ],
+    "account_count": 14,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 6688127.42
+  },
+  {
+    "cluster_id": "INFER_00018",
+    "accounts": [
+      "ACC00001687",
+      "ACC00001685",
+      "ACC00001688",
+      "ACC00001684",
+      "ACC00001689",
+      "ACC00001686"
+    ],
+    "account_count": 6,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 10706369.62
+  },
+  {
+    "cluster_id": "INFER_00021",
+    "accounts": [
+      "ACC00002138",
+      "ACC00002136",
+      "ACC00002139",
+      "ACC00002141",
+      "ACC00002137",
+      "ACC00002140"
+    ],
+    "account_count": 6,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 4910430.33
+  },
+  {
+    "cluster_id": "INFER_00023",
+    "accounts": [
+      "ACC00002321",
+      "ACC00002322",
+      "ACC00002319",
+      "ACC00002318",
+      "ACC00002323",
+      "ACC00002320",
+      "ACC00002316",
+      "ACC00002315",
+      "ACC00002324",
+      "ACC00002317"
+    ],
+    "account_count": 10,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 0.9,
+    "total_amount_blocked": 6154868.51
+  },
+  {
+    "cluster_id": "INFER_00030",
+    "accounts": [
+      "ACC00003401",
+      "ACC00003402",
+      "ACC00003400",
+      "ACC00003403",
+      "ACC00003404",
+      "ACC00003405"
+    ],
+    "account_count": 6,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 6531837.37
+  },
+  {
+    "cluster_id": "INFER_00052",
+    "accounts": [
+      "ACC00005714",
+      "ACC00005719",
+      "ACC00005713",
+      "ACC00005716",
+      "ACC00005712",
+      "ACC00005715",
+      "ACC00005718",
+      "ACC00005717"
+    ],
+    "account_count": 8,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 7579288.96
+  },
+  {
+    "cluster_id": "INFER_00068",
+    "accounts": [
+      "ACC00007619",
+      "ACC00007621",
+      "ACC00007623",
+      "ACC00007624",
+      "ACC00007620",
+      "ACC00007622"
+    ],
+    "account_count": 6,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 8004202.1
+  },
+  {
+    "cluster_id": "INFER_00070",
+    "accounts": [
+      "ACC00007739",
+      "ACC00007741",
+      "ACC00007740",
+      "ACC00007738",
+      "ACC00007743",
+      "ACC00007742"
+    ],
+    "account_count": 6,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 10440919.03
+  },
+  {
+    "cluster_id": "INFER_00072",
+    "accounts": [
+      "ACC00007796",
+      "ACC00007792",
+      "ACC00007795",
+      "ACC00007793",
+      "ACC00007791",
+      "ACC00007797",
+      "ACC00007794"
+    ],
+    "account_count": 7,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 9682945.22
+  },
+  {
+    "cluster_id": "INFER_00074",
+    "accounts": [
+      "ACC00007831",
+      "ACC00007837",
+      "ACC00007834",
+      "ACC00007829",
+      "ACC00007836",
+      "ACC00007835",
+      "ACC00007833",
+      "ACC00007830",
+      "ACC00007832"
+    ],
+    "account_count": 9,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 7712202.45
+  },
+  {
+    "cluster_id": "INFER_00091",
+    "accounts": [
+      "ACC00009128",
+      "ACC00009136",
+      "ACC00009134",
+      "ACC00009132",
+      "ACC00009126",
+      "ACC00009129",
+      "ACC00009131",
+      "ACC00009127",
+      "ACC00009130",
+      "ACC00009135",
+      "ACC00009133"
+    ],
+    "account_count": 11,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 6870979.86
+  },
+  {
+    "cluster_id": "INFER_00093",
+    "accounts": [
+      "ACC00009363",
+      "ACC00009362",
+      "ACC00009361",
+      "ACC00009359",
+      "ACC00009358",
+      "ACC00009360"
+    ],
+    "account_count": 6,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 0.8333,
+    "total_amount_blocked": 4354240.37
+  },
+  {
+    "cluster_id": "INFER_00104",
+    "accounts": [
+      "ACC00010468",
+      "ACC00010470",
+      "ACC00010474",
+      "ACC00010464",
+      "ACC00010473",
+      "ACC00010469",
+      "ACC00010466",
+      "ACC00010465",
+      "ACC00010467",
+      "ACC00010471",
+      "ACC00010472"
+    ],
+    "account_count": 11,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 7817956.64
+  },
+  {
+    "cluster_id": "INFER_00113",
+    "accounts": [
+      "ACC00011276",
+      "ACC00011271",
+      "ACC00011274",
+      "ACC00011272",
+      "ACC00011273",
+      "ACC00011275",
+      "ACC00011270"
+    ],
+    "account_count": 7,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 11462526.3
+  },
+  {
+    "cluster_id": "INFER_00114",
+    "accounts": [
+      "ACC00011286",
+      "ACC00011285",
+      "ACC00011278",
+      "ACC00011279",
+      "ACC00011280",
+      "ACC00011287",
+      "ACC00011284",
+      "ACC00011281",
+      "ACC00011277",
+      "ACC00011283",
+      "ACC00011282"
+    ],
+    "account_count": 11,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 11138283.79
+  },
+  {
+    "cluster_id": "INFER_00120",
+    "accounts": [
+      "ACC00011702",
+      "ACC00011697",
+      "ACC00011705",
+      "ACC00011706",
+      "ACC00011700",
+      "ACC00011704",
+      "ACC00011701",
+      "ACC00011696",
+      "ACC00011699",
+      "ACC00011698",
+      "ACC00011703"
+    ],
+    "account_count": 11,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 9770818.01
+  },
+  {
+    "cluster_id": "INFER_00129",
+    "accounts": [
+      "ACC00012476",
+      "ACC00012479",
+      "ACC00012474",
+      "ACC00012478",
+      "ACC00012477",
+      "ACC00012480",
+      "ACC00012473",
+      "ACC00012475"
+    ],
+    "account_count": 8,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 5704675.22
+  },
+  {
+    "cluster_id": "INFER_00131",
+    "accounts": [
+      "ACC00012711",
+      "ACC00012707",
+      "ACC00012709",
+      "ACC00012712",
+      "ACC00012708",
+      "ACC00012710"
+    ],
+    "account_count": 6,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 6796879.15
+  },
+  {
+    "cluster_id": "INFER_00132",
+    "accounts": [
+      "ACC00012756",
+      "ACC00012762",
+      "ACC00012764",
+      "ACC00012761",
+      "ACC00012759",
+      "ACC00012763",
+      "ACC00012758",
+      "ACC00012757",
+      "ACC00012760"
+    ],
+    "account_count": 9,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 9222550.03
+  },
+  {
+    "cluster_id": "INFER_00139",
+    "accounts": [
+      "ACC00013694",
+      "ACC00013698",
+      "ACC00013707",
+      "ACC00013702",
+      "ACC00013705",
+      "ACC00013699",
+      "ACC00013696",
+      "ACC00013701",
+      "ACC00013703",
+      "ACC00013697",
+      "ACC00013695",
+      "ACC00013706",
+      "ACC00013704",
+      "ACC00013700"
+    ],
+    "account_count": 14,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 0.9286,
+    "total_amount_blocked": 7628065.87
+  },
+  {
+    "cluster_id": "INFER_00143",
+    "accounts": [
+      "ACC00013977",
+      "ACC00013980",
+      "ACC00013978",
+      "ACC00013982",
+      "ACC00013981",
+      "ACC00013979"
+    ],
+    "account_count": 6,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 5839393.02
+  },
+  {
+    "cluster_id": "INFER_00151",
+    "accounts": [
+      "ACC00015041",
+      "ACC00015048",
+      "ACC00015043",
+      "ACC00015050",
+      "ACC00015044",
+      "ACC00015037",
+      "ACC00015040",
+      "ACC00015046",
+      "ACC00015038",
+      "ACC00015039",
+      "ACC00015042",
+      "ACC00015045",
+      "ACC00015047",
+      "ACC00015049"
+    ],
+    "account_count": 14,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 8432350.06
+  },
+  {
+    "cluster_id": "INFER_00152",
+    "accounts": [
+      "ACC00015088",
+      "ACC00015087",
+      "ACC00015086",
+      "ACC00015089",
+      "ACC00015090",
+      "ACC00015085",
+      "ACC00015084"
+    ],
+    "account_count": 7,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 6057033.51
+  },
+  {
+    "cluster_id": "INFER_00155",
+    "accounts": [
+      "ACC00015508",
+      "ACC00015506",
+      "ACC00015509",
+      "ACC00015505",
+      "ACC00015510",
+      "ACC00015507"
+    ],
+    "account_count": 6,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 9080564.42
+  },
+  {
+    "cluster_id": "INFER_00156",
+    "accounts": [
+      "ACC00015535",
+      "ACC00015536",
+      "ACC00015534",
+      "ACC00015540",
+      "ACC00015538",
+      "ACC00015537",
+      "ACC00015539",
+      "ACC00015541"
+    ],
+    "account_count": 8,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 7106257.32
+  },
+  {
+    "cluster_id": "INFER_00161",
+    "accounts": [
+      "ACC00015857",
+      "ACC00015856",
+      "ACC00015853",
+      "ACC00015860",
+      "ACC00015858",
+      "ACC00015855",
+      "ACC00015854",
+      "ACC00015859"
+    ],
+    "account_count": 8,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 5951279.27
+  },
+  {
+    "cluster_id": "INFER_00162",
+    "accounts": [
+      "ACC00016007",
+      "ACC00016009",
+      "ACC00016008",
+      "ACC00016005",
+      "ACC00016006",
+      "ACC00016004"
+    ],
+    "account_count": 6,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 7381024.17
+  },
+  {
+    "cluster_id": "INFER_00166",
+    "accounts": [
+      "ACC00016390",
+      "ACC00016387",
+      "ACC00016386",
+      "ACC00016388",
+      "ACC00016389",
+      "ACC00016385"
+    ],
+    "account_count": 6,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 5832307.03
+  },
+  {
+    "cluster_id": "INFER_00168",
+    "accounts": [
+      "ACC00016420",
+      "ACC00016419",
+      "ACC00016418",
+      "ACC00016417",
+      "ACC00016421",
+      "ACC00016422"
+    ],
+    "account_count": 6,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 10538113.77
+  },
+  {
+    "cluster_id": "INFER_00171",
+    "accounts": [
+      "ACC00017246",
+      "ACC00017244",
+      "ACC00017245",
+      "ACC00017248",
+      "ACC00017243",
+      "ACC00017247",
+      "ACC00017249"
+    ],
+    "account_count": 7,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 6387612.4
+  },
+  {
+    "cluster_id": "INFER_00172",
+    "accounts": [
+      "ACC00017441",
+      "ACC00017447",
+      "ACC00017435",
+      "ACC00017436",
+      "ACC00017444",
+      "ACC00017434",
+      "ACC00017445",
+      "ACC00017443",
+      "ACC00017446",
+      "ACC00017437",
+      "ACC00017438",
+      "ACC00017440",
+      "ACC00017439",
+      "ACC00017442"
+    ],
+    "account_count": 14,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 8577305.63
+  },
+  {
+    "cluster_id": "INFER_00174",
+    "accounts": [
+      "ACC00017522",
+      "ACC00017523",
+      "ACC00017520",
+      "ACC00017525",
+      "ACC00017521",
+      "ACC00017524",
+      "ACC00017519"
+    ],
+    "account_count": 7,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 7321704.74
+  },
+  {
+    "cluster_id": "INFER_00176",
+    "accounts": [
+      "ACC00017642",
+      "ACC00017643",
+      "ACC00017645",
+      "ACC00017648",
+      "ACC00017647",
+      "ACC00017646",
+      "ACC00017641",
+      "ACC00017644"
+    ],
+    "account_count": 8,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 9077742.31
+  },
+  {
+    "cluster_id": "INFER_00179",
+    "accounts": [
+      "ACC00017910",
+      "ACC00017909",
+      "ACC00017904",
+      "ACC00017908",
+      "ACC00017907",
+      "ACC00017902",
+      "ACC00017911",
+      "ACC00017905",
+      "ACC00017903",
+      "ACC00017906"
+    ],
+    "account_count": 10,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 8991074.77
+  },
+  {
+    "cluster_id": "INFER_00185",
+    "accounts": [
+      "ACC00018808",
+      "ACC00018804",
+      "ACC00018797",
+      "ACC00018800",
+      "ACC00018798",
+      "ACC00018805",
+      "ACC00018806",
+      "ACC00018803",
+      "ACC00018802",
+      "ACC00018801",
+      "ACC00018807",
+      "ACC00018799"
+    ],
+    "account_count": 12,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 7973548.83
+  },
+  {
+    "cluster_id": "INFER_00200",
+    "accounts": [
+      "ACC00019928",
+      "ACC00019930",
+      "ACC00019934",
+      "ACC00019929",
+      "ACC00019933",
+      "ACC00019927",
+      "ACC00019931",
+      "ACC00019932"
+    ],
+    "account_count": 8,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 5009013.31
+  },
+  {
+    "cluster_id": "INFER_00202",
+    "accounts": [
+      "ACC00020024",
+      "ACC00020022",
+      "ACC00020027",
+      "ACC00020025",
+      "ACC00020023",
+      "ACC00020026"
+    ],
+    "account_count": 6,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 7801710.05
+  },
+  {
+    "cluster_id": "INFER_00212",
+    "accounts": [
+      "ACC00020464",
+      "ACC00020468",
+      "ACC00020466",
+      "ACC00020470",
+      "ACC00020467",
+      "ACC00020469",
+      "ACC00020465",
+      "ACC00020463"
+    ],
+    "account_count": 8,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 6709534.85
+  },
+  {
+    "cluster_id": "INFER_00215",
+    "accounts": [
+      "ACC00020966",
+      "ACC00020963",
+      "ACC00020961",
+      "ACC00020962",
+      "ACC00020965",
+      "ACC00020967",
+      "ACC00020964"
+    ],
+    "account_count": 7,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 7367870.96
+  },
+  {
+    "cluster_id": "INFER_00227",
+    "accounts": [
+      "ACC00021759",
+      "ACC00021760",
+      "ACC00021756",
+      "ACC00021755",
+      "ACC00021758",
+      "ACC00021764",
+      "ACC00021757",
+      "ACC00021763",
+      "ACC00021762",
+      "ACC00021754",
+      "ACC00021761"
+    ],
+    "account_count": 11,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 8211572.94
+  },
+  {
+    "cluster_id": "INFER_00228",
+    "accounts": [
+      "ACC00021837",
+      "ACC00021831",
+      "ACC00021838",
+      "ACC00021833",
+      "ACC00021835",
+      "ACC00021836",
+      "ACC00021834",
+      "ACC00021832",
+      "ACC00021830"
+    ],
+    "account_count": 9,
+    "pattern": "UNKNOWN_SUSPICIOUS",
+    "risk_score": 0.9999,
+    "is_novel_pattern": true,
+    "confidence": null,
+    "total_amount_blocked": 4337776.02
+  },
+  {
+    "cluster_id": "INFER_00232",
+    "accounts": [
+      "ACC00022214",
+      "ACC00022213",
+      "ACC00022208",
+      "ACC00022205",
+      "ACC00022211",
+      "ACC00022207",
+      "ACC00022212",
+      "ACC00022206",
+      "ACC00022210",
+      "ACC00022209"
+    ],
+    "account_count": 10,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 8386264.36
+  },
+  {
+    "cluster_id": "INFER_00237",
+    "accounts": [
+      "ACC00022472",
+      "ACC00022476",
+      "ACC00022468",
+      "ACC00022469",
+      "ACC00022470",
+      "ACC00022475",
+      "ACC00022473",
+      "ACC00022471",
+      "ACC00022474"
+    ],
+    "account_count": 9,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 8205335.37
+  },
+  {
+    "cluster_id": "INFER_00238",
+    "accounts": [
+      "ACC00022634",
+      "ACC00022633",
+      "ACC00022638",
+      "ACC00022636",
+      "ACC00022637",
+      "ACC00022635",
+      "ACC00022632"
+    ],
+    "account_count": 7,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 8797018.92
+  },
+  {
+    "cluster_id": "INFER_00240",
+    "accounts": [
+      "ACC00022782",
+      "ACC00022783",
+      "ACC00022780",
+      "ACC00022781",
+      "ACC00022784",
+      "ACC00022785"
+    ],
+    "account_count": 6,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 3467863.99
+  },
+  {
+    "cluster_id": "INFER_00242",
+    "accounts": [
+      "ACC00023094",
+      "ACC00023100",
+      "ACC00023099",
+      "ACC00023096",
+      "ACC00023101",
+      "ACC00023097",
+      "ACC00023104",
+      "ACC00023103",
+      "ACC00023095",
+      "ACC00023102",
+      "ACC00023098"
+    ],
+    "account_count": 11,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 10992913.0
+  },
+  {
+    "cluster_id": "INFER_00243",
+    "accounts": [
+      "ACC00023105",
+      "ACC00023106",
+      "ACC00023110",
+      "ACC00023107",
+      "ACC00023108",
+      "ACC00023109"
+    ],
+    "account_count": 6,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 7456251.92
+  },
+  {
+    "cluster_id": "INFER_00244",
+    "accounts": [
+      "ACC00023134",
+      "ACC00023130",
+      "ACC00023135",
+      "ACC00023132",
+      "ACC00023129",
+      "ACC00023131",
+      "ACC00023133"
+    ],
+    "account_count": 7,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 11208796.5
+  },
+  {
+    "cluster_id": "INFER_00247",
+    "accounts": [
+      "ACC00023354",
+      "ACC00023355",
+      "ACC00023357",
+      "ACC00023352",
+      "ACC00023353",
+      "ACC00023356",
+      "ACC00023358",
+      "ACC00023351",
+      "ACC00023350",
+      "ACC00023359"
+    ],
+    "account_count": 10,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 7724900.43
+  },
+  {
+    "cluster_id": "INFER_00251",
+    "accounts": [
+      "ACC00023840",
+      "ACC00023833",
+      "ACC00023839",
+      "ACC00023835",
+      "ACC00023842",
+      "ACC00023834",
+      "ACC00023838",
+      "ACC00023841",
+      "ACC00023832",
+      "ACC00023836",
+      "ACC00023837"
+    ],
+    "account_count": 11,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 7339027.03
+  },
+  {
+    "cluster_id": "INFER_00260",
+    "accounts": [
+      "ACC00025021",
+      "ACC00025020",
+      "ACC00025026",
+      "ACC00025029",
+      "ACC00025023",
+      "ACC00025022",
+      "ACC00025028",
+      "ACC00025027",
+      "ACC00025019",
+      "ACC00025024",
+      "ACC00025025"
+    ],
+    "account_count": 11,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 7324200.77
+  },
+  {
+    "cluster_id": "INFER_00262",
+    "accounts": [
+      "ACC00025271",
+      "ACC00025274",
+      "ACC00025278",
+      "ACC00025279",
+      "ACC00025276",
+      "ACC00025272",
+      "ACC00025277",
+      "ACC00025275",
+      "ACC00025273"
+    ],
+    "account_count": 9,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 8530087.35
+  },
+  {
+    "cluster_id": "INFER_00270",
+    "accounts": [
+      "ACC00026229",
+      "ACC00026222",
+      "ACC00026230",
+      "ACC00026223",
+      "ACC00026228",
+      "ACC00026225",
+      "ACC00026224",
+      "ACC00026226"
+    ],
+    "account_count": 8,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 4889541.57
+  },
+  {
+    "cluster_id": "INFER_00276",
+    "accounts": [
+      "ACC00027108",
+      "ACC00027101",
+      "ACC00027109",
+      "ACC00027102",
+      "ACC00027100",
+      "ACC00027105",
+      "ACC00027107",
+      "ACC00027099",
+      "ACC00027106",
+      "ACC00027103",
+      "ACC00027110",
+      "ACC00027098",
+      "ACC00027104"
+    ],
+    "account_count": 13,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 7549180.2
+  },
+  {
+    "cluster_id": "INFER_00279",
+    "accounts": [
+      "ACC00027474",
+      "ACC00027467",
+      "ACC00027473",
+      "ACC00027470",
+      "ACC00027475",
+      "ACC00027479",
+      "ACC00027471",
+      "ACC00027476",
+      "ACC00027481",
+      "ACC00027480",
+      "ACC00027468",
+      "ACC00027472",
+      "ACC00027478",
+      "ACC00027469",
+      "ACC00027477"
+    ],
+    "account_count": 15,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 10816710.2
+  },
+  {
+    "cluster_id": "INFER_00282",
+    "accounts": [
+      "ACC00027631",
+      "ACC00027629",
+      "ACC00027630",
+      "ACC00027628",
+      "ACC00027626",
+      "ACC00027627"
+    ],
+    "account_count": 6,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 5394151.73
+  },
+  {
+    "cluster_id": "INFER_00285",
+    "accounts": [
+      "ACC00027846",
+      "ACC00027853",
+      "ACC00027847",
+      "ACC00027854",
+      "ACC00027856",
+      "ACC00027851",
+      "ACC00027858",
+      "ACC00027848",
+      "ACC00027849",
+      "ACC00027850",
+      "ACC00027852",
+      "ACC00027855",
+      "ACC00027857"
+    ],
+    "account_count": 13,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 6189559.7
+  },
+  {
+    "cluster_id": "INFER_00286",
+    "accounts": [
+      "ACC00028053",
+      "ACC00028055",
+      "ACC00028054",
+      "ACC00028058",
+      "ACC00028056",
+      "ACC00028060",
+      "ACC00028062",
+      "ACC00028052",
+      "ACC00028063",
+      "ACC00028064",
+      "ACC00028059",
+      "ACC00028061"
+    ],
+    "account_count": 12,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 8759135.62
+  },
+  {
+    "cluster_id": "INFER_00287",
+    "accounts": [
+      "ACC00028086",
+      "ACC00028084",
+      "ACC00028088",
+      "ACC00028087",
+      "ACC00028085",
+      "ACC00028089"
+    ],
+    "account_count": 6,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 8946626.89
+  },
+  {
+    "cluster_id": "INFER_00289",
+    "accounts": [
+      "ACC00028299",
+      "ACC00028301",
+      "ACC00028304",
+      "ACC00028303",
+      "ACC00028298",
+      "ACC00028296",
+      "ACC00028297",
+      "ACC00028302",
+      "ACC00028300",
+      "ACC00028305"
+    ],
+    "account_count": 10,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 8477465.06
+  },
+  {
+    "cluster_id": "INFER_00291",
+    "accounts": [
+      "ACC00028558",
+      "ACC00028560",
+      "ACC00028556",
+      "ACC00028553",
+      "ACC00028563",
+      "ACC00028554",
+      "ACC00028559",
+      "ACC00028562",
+      "ACC00028561",
+      "ACC00028555",
+      "ACC00028557"
+    ],
+    "account_count": 11,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 6864628.39
+  },
+  {
+    "cluster_id": "INFER_00296",
+    "accounts": [
+      "ACC00029159",
+      "ACC00029157",
+      "ACC00029155",
+      "ACC00029161",
+      "ACC00029160",
+      "ACC00029156",
+      "ACC00029158"
+    ],
+    "account_count": 7,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 4286311.86
+  },
+  {
+    "cluster_id": "INFER_00298",
+    "accounts": [
+      "ACC00029264",
+      "ACC00029265",
+      "ACC00029263",
+      "ACC00029262",
+      "ACC00029266",
+      "ACC00029267"
+    ],
+    "account_count": 6,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 7475866.45
+  },
+  {
+    "cluster_id": "INFER_00300",
+    "accounts": [
+      "ACC00029426",
+      "ACC00029424",
+      "ACC00029427",
+      "ACC00029422",
+      "ACC00029428",
+      "ACC00029423",
+      "ACC00029429",
+      "ACC00029425"
+    ],
+    "account_count": 8,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 7236846.92
+  },
+  {
+    "cluster_id": "INFER_00306",
+    "accounts": [
+      "ACC00030111",
+      "ACC00030106",
+      "ACC00030103",
+      "ACC00030110",
+      "ACC00030102",
+      "ACC00030105",
+      "ACC00030109",
+      "ACC00030107",
+      "ACC00030104",
+      "ACC00030108"
+    ],
+    "account_count": 10,
+    "pattern": "UNKNOWN_SUSPICIOUS",
+    "risk_score": 0.9999,
+    "is_novel_pattern": true,
+    "confidence": null,
+    "total_amount_blocked": 6935923.3
+  },
+  {
+    "cluster_id": "INFER_00319",
+    "accounts": [
+      "ACC00031692",
+      "ACC00031691",
+      "ACC00031685",
+      "ACC00031683",
+      "ACC00031693",
+      "ACC00031688",
+      "ACC00031682",
+      "ACC00031690",
+      "ACC00031684",
+      "ACC00031686",
+      "ACC00031687",
+      "ACC00031689",
+      "ACC00031694"
+    ],
+    "account_count": 13,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 8984968.58
+  },
+  {
+    "cluster_id": "INFER_00325",
+    "accounts": [
+      "ACC00032205",
+      "ACC00032209",
+      "ACC00032212",
+      "ACC00032213",
+      "ACC00032207",
+      "ACC00032208",
+      "ACC00032204",
+      "ACC00032210",
+      "ACC00032211",
+      "ACC00032206"
+    ],
+    "account_count": 10,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 7815021.73
+  },
+  {
+    "cluster_id": "INFER_00327",
+    "accounts": [
+      "ACC00032329",
+      "ACC00032331",
+      "ACC00032327",
+      "ACC00032332",
+      "ACC00032330",
+      "ACC00032326",
+      "ACC00032323",
+      "ACC00032324",
+      "ACC00032325",
+      "ACC00032328"
+    ],
+    "account_count": 10,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 7528833.77
+  },
+  {
+    "cluster_id": "INFER_00331",
+    "accounts": [
+      "ACC00032841",
+      "ACC00032844",
+      "ACC00032848",
+      "ACC00032849",
+      "ACC00032845",
+      "ACC00032842",
+      "ACC00032843",
+      "ACC00032847",
+      "ACC00032840",
+      "ACC00032850",
+      "ACC00032839",
+      "ACC00032846"
+    ],
+    "account_count": 12,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 9787690.45
+  },
+  {
+    "cluster_id": "INFER_00334",
+    "accounts": [
+      "ACC00032959",
+      "ACC00032951",
+      "ACC00032957",
+      "ACC00032955",
+      "ACC00032956",
+      "ACC00032958",
+      "ACC00032950",
+      "ACC00032952"
+    ],
+    "account_count": 8,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 3352179.82
+  },
+  {
+    "cluster_id": "INFER_00348",
+    "accounts": [
+      "ACC00034246",
+      "ACC00034237",
+      "ACC00034242",
+      "ACC00034241",
+      "ACC00034247",
+      "ACC00034238",
+      "ACC00034240",
+      "ACC00034245",
+      "ACC00034236",
+      "ACC00034244",
+      "ACC00034243",
+      "ACC00034239",
+      "ACC00034235"
+    ],
+    "account_count": 13,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 8812898.16
+  },
+  {
+    "cluster_id": "INFER_00349",
+    "accounts": [
+      "ACC00034264",
+      "ACC00034266",
+      "ACC00034262",
+      "ACC00034259",
+      "ACC00034263",
+      "ACC00034261",
+      "ACC00034265",
+      "ACC00034260"
+    ],
+    "account_count": 8,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 7207337.54
+  },
+  {
+    "cluster_id": "INFER_00361",
+    "accounts": [
+      "ACC00035467",
+      "ACC00035469",
+      "ACC00035468",
+      "ACC00035470",
+      "ACC00035473",
+      "ACC00035472",
+      "ACC00035471"
+    ],
+    "account_count": 7,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 8681197.45
+  },
+  {
+    "cluster_id": "INFER_00366",
+    "accounts": [
+      "ACC00035846",
+      "ACC00035844",
+      "ACC00035848",
+      "ACC00035849",
+      "ACC00035847",
+      "ACC00035845"
+    ],
+    "account_count": 6,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 9157691.02
+  },
+  {
+    "cluster_id": "INFER_00369",
+    "accounts": [
+      "ACC00035891",
+      "ACC00035892",
+      "ACC00035890",
+      "ACC00035887",
+      "ACC00035894",
+      "ACC00035896",
+      "ACC00035895",
+      "ACC00035888",
+      "ACC00035889",
+      "ACC00035893"
+    ],
+    "account_count": 10,
+    "pattern": "mule_ring",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 7555207.12
+  },
+  {
+    "cluster_id": "INFER_00621",
+    "accounts": [
+      "ACC00059601",
+      "ACC00059602",
+      "ACC00059603",
+      "ACC00059604"
+    ],
+    "account_count": 4,
+    "pattern": "circular_loop",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 5568740.43
+  },
+  {
+    "cluster_id": "INFER_00622",
+    "accounts": [
+      "ACC00059644",
+      "ACC00059645",
+      "ACC00059646",
+      "ACC00059647",
+      "ACC00059648",
+      "ACC00059649"
+    ],
+    "account_count": 6,
+    "pattern": "circular_loop",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 16188734.99
+  },
+  {
+    "cluster_id": "INFER_00624",
+    "accounts": [
+      "ACC00059753",
+      "ACC00059754",
+      "ACC00059755",
+      "ACC00059756",
+      "ACC00059757",
+      "ACC00059758",
+      "ACC00059759"
+    ],
+    "account_count": 7,
+    "pattern": "circular_loop",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 9645978.63
+  },
+  {
+    "cluster_id": "INFER_00627",
+    "accounts": [
+      "ACC00060159",
+      "ACC00060160",
+      "ACC00060161",
+      "ACC00060162",
+      "ACC00060163",
+      "ACC00060164",
+      "ACC00060165"
+    ],
+    "account_count": 7,
+    "pattern": "circular_loop",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 7681648.34
+  },
+  {
+    "cluster_id": "INFER_00630",
+    "accounts": [
+      "ACC00060241",
+      "ACC00060242",
+      "ACC00060243"
+    ],
+    "account_count": 3,
+    "pattern": "circular_loop",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 3259957.79
+  },
+  {
+    "cluster_id": "INFER_00632",
+    "accounts": [
+      "ACC00060369",
+      "ACC00060370",
+      "ACC00060371",
+      "ACC00060372",
+      "ACC00060373",
+      "ACC00060374"
+    ],
+    "account_count": 6,
+    "pattern": "circular_loop",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 10579379.12
+  },
+  {
+    "cluster_id": "INFER_00636",
+    "accounts": [
+      "ACC00060501",
+      "ACC00060502",
+      "ACC00060503",
+      "ACC00060504"
+    ],
+    "account_count": 4,
+    "pattern": "circular_loop",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 3346860.16
+  },
+  {
+    "cluster_id": "INFER_00637",
+    "accounts": [
+      "ACC00060529",
+      "ACC00060530",
+      "ACC00060531",
+      "ACC00060532",
+      "ACC00060533",
+      "ACC00060534",
+      "ACC00060535",
+      "ACC00060536"
+    ],
+    "account_count": 8,
+    "pattern": "circular_loop",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 12798862.58
+  },
+  {
+    "cluster_id": "INFER_00639",
+    "accounts": [
+      "ACC00060601",
+      "ACC00060602",
+      "ACC00060603",
+      "ACC00060604",
+      "ACC00060605",
+      "ACC00060606"
+    ],
+    "account_count": 6,
+    "pattern": "circular_loop",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 14815264.14
+  },
+  {
+    "cluster_id": "INFER_00640",
+    "accounts": [
+      "ACC00060713",
+      "ACC00060714",
+      "ACC00060715",
+      "ACC00060716",
+      "ACC00060717",
+      "ACC00060718",
+      "ACC00060719",
+      "ACC00060720"
+    ],
+    "account_count": 8,
+    "pattern": "circular_loop",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 9369673.74
+  },
+  {
+    "cluster_id": "INFER_00644",
+    "accounts": [
+      "ACC00060816",
+      "ACC00060817",
+      "ACC00060818",
+      "ACC00060819"
+    ],
+    "account_count": 4,
+    "pattern": "circular_loop",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 15727079.18
+  },
+  {
+    "cluster_id": "INFER_00645",
+    "accounts": [
+      "ACC00060832",
+      "ACC00060833",
+      "ACC00060834",
+      "ACC00060835",
+      "ACC00060836"
+    ],
+    "account_count": 5,
+    "pattern": "circular_loop",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 9741651.38
+  },
+  {
+    "cluster_id": "INFER_00647",
+    "accounts": [
+      "ACC00060989",
+      "ACC00060990",
+      "ACC00060991",
+      "ACC00060992"
+    ],
+    "account_count": 4,
+    "pattern": "circular_loop",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 6314677.66
+  },
+  {
+    "cluster_id": "INFER_00648",
+    "accounts": [
+      "ACC00061066",
+      "ACC00061067",
+      "ACC00061068",
+      "ACC00061069"
+    ],
+    "account_count": 4,
+    "pattern": "circular_loop",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 2407752.46
+  },
+  {
+    "cluster_id": "INFER_00650",
+    "accounts": [
+      "ACC00061222",
+      "ACC00061223",
+      "ACC00061224",
+      "ACC00061225",
+      "ACC00061226",
+      "ACC00061227",
+      "ACC00061228"
+    ],
+    "account_count": 7,
+    "pattern": "circular_loop",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 15773851.69
+  },
+  {
+    "cluster_id": "INFER_00651",
+    "accounts": [
+      "ACC00061246",
+      "ACC00061247",
+      "ACC00061248",
+      "ACC00061249",
+      "ACC00061250",
+      "ACC00061251",
+      "ACC00061252"
+    ],
+    "account_count": 7,
+    "pattern": "circular_loop",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 1860120.62
+  },
+  {
+    "cluster_id": "INFER_00654",
+    "accounts": [
+      "ACC00061403",
+      "ACC00061404",
+      "ACC00061405",
+      "ACC00061406",
+      "ACC00061407",
+      "ACC00061408",
+      "ACC00061409"
+    ],
+    "account_count": 7,
+    "pattern": "circular_loop",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 9429458.68
+  },
+  {
+    "cluster_id": "INFER_00658",
+    "accounts": [
+      "ACC00061483",
+      "ACC00061484",
+      "ACC00061485",
+      "ACC00061486",
+      "ACC00061487"
+    ],
+    "account_count": 5,
+    "pattern": "circular_loop",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 1267800.9
+  },
+  {
+    "cluster_id": "INFER_00665",
+    "accounts": [
+      "ACC00061977",
+      "ACC00061978",
+      "ACC00061979"
+    ],
+    "account_count": 3,
+    "pattern": "circular_loop",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 6593206.29
+  },
+  {
+    "cluster_id": "INFER_00673",
+    "accounts": [
+      "ACC00062293",
+      "ACC00062294",
+      "ACC00062295",
+      "ACC00062296",
+      "ACC00062297"
+    ],
+    "account_count": 5,
+    "pattern": "circular_loop",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 8618868.77
+  },
+  {
+    "cluster_id": "INFER_00675",
+    "accounts": [
+      "ACC00062332",
+      "ACC00062333",
+      "ACC00062334",
+      "ACC00062335",
+      "ACC00062336",
+      "ACC00062337",
+      "ACC00062338",
+      "ACC00062339"
+    ],
+    "account_count": 8,
+    "pattern": "circular_loop",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 0.875,
+    "total_amount_blocked": 11588364.85
+  },
+  {
+    "cluster_id": "INFER_00676",
+    "accounts": [
+      "ACC00062368",
+      "ACC00062369",
+      "ACC00062370",
+      "ACC00062371",
+      "ACC00062372",
+      "ACC00062373"
+    ],
+    "account_count": 6,
+    "pattern": "circular_loop",
+    "risk_score": 0.9999,
+    "is_novel_pattern": false,
+    "confidence": 1.0,
+    "total_amount_blocked": 10198688.48
+  }
+]

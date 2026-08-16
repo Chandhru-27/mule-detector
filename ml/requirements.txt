@@ -1,0 +1,13 @@
+pandas
+numpy
+networkx
+python-louvain
+scikit-learn
+tqdm
+torch
+torch_geometric
+confluent-kafka
+xgboost
+Flask
+Flask-Cors
+psutil

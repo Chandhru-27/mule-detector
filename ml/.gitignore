@@ -1,0 +1,16 @@
+aml_dataset/
+graph_cache/
+__pycache__/
+*.pyc
+.env
+.venv/
+
+
+# datasets
+data/
+cache/
+outputs/
+
+# large model files
+*.pt
+*.zip

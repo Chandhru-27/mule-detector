@@ -1,0 +1,145 @@
+services:
+
+  kafka:
+    image: confluentinc/cp-kafka:8.1.2    
+    container_name: kafka-server
+    ports:
+      - "9092:9092"
+    environment:
+      CLUSTER_ID: nN_yf6zzSpujYlJJz3OV-w
+      KAFKA_KRAFT_MODE: true
+      KAFKA_NODE_ID: 1
+
+      KAFKA_PROCESS_ROLES: broker,controller
+      KAFKA_CONTROLLER_QUORUM_VOTERS: 1@kafka:9093
+
+      KAFKA_LISTENERS: PLAINTEXT://0.0.0.0:9092,INTERNAL://0.0.0.0:29092,CONTROLLER://0.0.0.0:9093
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://localhost:9092,INTERNAL://kafka:29092
+
+      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: PLAINTEXT:PLAINTEXT,INTERNAL:PLAINTEXT,CONTROLLER:PLAINTEXT
+      KAFKA_INTER_BROKER_LISTENER_NAME: INTERNAL
+      KAFKA_CONTROLLER_LISTENER_NAMES: CONTROLLER
+
+      KAFKA_LOG_DIRS: /tmp/kraft-combined-logs
+      KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
+      KAFKA_AUTO_CREATE_TOPICS_ENABLE: "true"
+
+    healthcheck:
+      test: ["CMD", "kafka-broker-api-versions", "--bootstrap-server", "localhost:9092"]
+      interval: 10s
+      timeout: 10s
+      retries: 5
+      start_period: 30s
+      
+    volumes:
+      - kafka_kraft:/var/lib/kafka/data
+
+    networks:
+      - mule-detector-net
+  
+  kafka-ui:
+    image: provectuslabs/kafka-ui:latest
+    container_name: kafka-ui-server
+    ports:
+      - "8080:8080"
+    environment:
+      KAFKA_CLUSTERS_0_NAME: local
+      KAFKA_CLUSTERS_0_BOOTSTRAPSERVERS: kafka:29092
+    depends_on:
+      - kafka
+    networks:
+      - mule-detector-net
+
+  redis-ui:
+    image: redis/redisinsight:latest
+    container_name: redis-ui
+    ports:
+      - "5540:5540"
+    volumes:
+      - redisinsight:/data
+    depends_on:
+      - redis
+    networks:
+      - mule-detector-net
+  
+  redis:
+    image: redis:7.2-alpine
+    container_name: redis-server
+    ports:
+      - "${REDIS_PORT}:6379"
+    command: redis-server --save 60 1 --loglevel warning --requirepass ${REDIS_PASSWORD}
+    volumes:
+      - redis-data:/data
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+    networks:
+      - mule-detector-net
+
+
+volumes:
+  kafka_kraft:
+  redis-data:
+  redisinsight:
+
+networks:
+  mule-detector-net:
+    driver: bridge
+
+  # neo4j:
+  #   image: neo4j:5.18
+  #   ports:
+  #     - "7474:7474"      
+  #     - "7687:7687"      
+  #   environment:
+  #     # username/password separated by slash
+  #     NEO4J_AUTH: neo4j/password
+  #     # APOC = Awesome Procedures on Cypher
+  #     # Graph algorithms, path finding, and utilities you'll need for GNN prep
+  #     NEO4J_PLUGINS: '["apoc"]'
+  #     # Memory settings — prevents Neo4j from grabbing all your RAM
+  #     NEO4J_dbms_memory_heap_initial__size: 512m
+  #     NEO4J_dbms_memory_heap_max__size: 1G
+  #     NEO4J_dbms_memory_pagecache__size: 512m
+  #   volumes:
+  #     - neo4j-data:/data
+  #   healthcheck:
+  #     test: ["CMD", "cypher-shell", "-u", "neo4j", "-p", "password", "RETURN 1"]
+  #     interval: 10s
+  #     timeout: 10s
+  #     retries: 10
+  #     start_period: 30s  
+  #   networks:
+  #     - mule-detector-net
+
+  # app:
+  #   build:
+  #     context: ..          
+  #     dockerfile: Dockerfile
+  #   ports:
+  #     - "8000:8000"
+  #   volumes:
+  #     - ../data:/app/data
+  #   env_file:
+  #     - ../.env            
+  #   environment:
+  #     KAFKA_BOOTSTRAP_SERVERS: kafka:29092
+  #     REDIS_HOST: redis
+  #     NEO4J_URI: bolt://neo4j:7687
+  #   depends_on:
+  #     kafka:
+  #       condition: service_healthy
+  #     redis:
+  #       condition: service_healthy
+  #     neo4j:
+  #       condition: service_healthy
+  #   networks:
+  #     - mule-detector-net
+
+# volumes:
+#   redis-data:
+#   neo4j-data:
+
